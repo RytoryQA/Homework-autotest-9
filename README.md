@@ -5,4 +5,6 @@
 **Задача:** Необходимо автоматизировать тестирование новой функции формы заказа доставки карты. Для группировки полей использовать data-классы и утилитный класс-генератор данных. Подключить отчет о тестировании Allure, интегрированный с Selenide.  
 **Тестируемая функциональность:** Форма заказа достаки карты. При повторном заполнении полей формы теми же данными, за исключением «Даты встречи», система должна предложить перепланировать время встречи.   
 
-<img src="https://github.com/netology-code/aqa-homeworks/blob/master/reporting/pic/order.png?raw=true" width="500" height="500" />
+<img src="https://github.com/netology-code/aqa-homeworks/blob/master/reporting/pic/order.png?raw=true" width="500" height="500" />  
+<img src="https://github.com/netology-code/aqa-homeworks/blob/master/patterns/pic/replan.png?raw=true" width="350" height="150" />
+<img src="https://github.com/netology-code/aqa-homeworks/blob/master/patterns/pic/success.png?raw=true" width="350" height="100" />
